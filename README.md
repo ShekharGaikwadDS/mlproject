@@ -1,6 +1,6 @@
 ## Machine Learning End-to-End Project
 
-## This project aims to predict gemstone prices using machine learning. The project consists of the following phases:
+## The project consists of the following phases:
 
 **Data Ingestion**
 The data is first read as a CSV file. Then, the data is split into training and testing sets and saved as CSV files.
